@@ -40,47 +40,62 @@ Initiated the analysis by examining fundamental metrics related to the warehouse
    ``` SQL
 
    ```
-5. What’s the total sales amount and average sales amount of each warehouse?
+4. What’s the total sales amount and average sales amount of each warehouse?
    ``` SQL
 
    ```
-6. Are warehouses making enough profit through sales?
+5. Are warehouses making enough profit through sales?
    ``` SQL
 
    ```
-7. Are the products effectively shipped from the warehouse?
+6. Are the products effectively shipped from the warehouse?
    ``` SQL
 
    ```
-8. Was there any drastic change in product demand across the years?
+7. Was there any drastic change in product demand across the years?
    ``` SQL
 
    ```
-9. Are there any product lines showing exceptional performance or underperforming?
+8. Are there any product lines showing exceptional performance or underperforming?
    ``` SQL
 
    ```
-10. What product line yields the highest profit for the company?
+9. What product line yields the highest profit for the company?
     ``` SQL
 
     ```
-11. Was there any product that was in demand but was out of stock?
+10. Was there any product that was in demand but was out of stock?
     ``` SQL
 
     ```
-12. Are there products with high inventory but low sales?
+11. Are there products with high inventory but low sales?
     ``` SQL
 
     ```
-13. Who are the customers making the most significant contributions to sales?
+12. Who are the customers making the most significant contributions to sales?
     ``` SQL
 
     ```
-14. What is the purchasing trend among customers? Are there customers who did not place any orders within the specified timeframe?
-18. Do customers have outstanding balances?
-19. Are there customers with credit issues that need to be addressed?
-20. How are employees performing based on their overall sales?
-21. Are employees effectively able to secure deals with clients?
+13. What is the purchasing trend among customers? Are there customers who did not place any orders within the specified timeframe?
+    ``` SQL
+
+    ```
+14. Do customers have outstanding balances?
+    ``` SQL
+
+    ```
+15. Are there customers with credit issues that need to be addressed?
+    ``` SQL
+
+    ```
+16. How are employees performing based on their overall sales?
+    ``` SQL
+
+    ```
+17. Are employees effectively able to secure deals with clients?
+    ``` SQL
+
+    ```
 
 ## Should Mint Classics consider the closure of one of their storage facilities?
 
