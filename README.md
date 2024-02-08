@@ -20,23 +20,23 @@ Initiated the analysis by examining fundamental metrics related to the warehouse
 
 **The following will be analyzed in this project: -**
 
-1. What is the total quantity of product in each inventory?
-2. What is the product category count and their product line percentage?
-3. What is the overall quantity of products shipped from each warehouse?
-4. What’s the total sales amount and average sales amount of each warehouse?
-5. Are warehouses making enough profit through sales?
-6. Are the products effectively shipped from the warehouse?
-7. Was there any drastic change in product demand across the years?
-8. Are there any product lines showing exceptional performance or underperforming?
-9. What product line yields the highest profit for the company?
-10. Was there any product that was in demand but was out of stock?
-11. Are there products with high inventory but low sales?
-12. Who are the customers making the most significant contributions to sales?
-13. What is the purchasing trend among customers? Are there customers who did not place any orders within the specified timeframe?
-14. Do customers have outstanding balances?
-15. Are there customers with credit issues that need to be addressed?
-16. How are employees performing based on their overall sales?
-17. Are employees effectively able to secure deals with clients?
++ What is the total quantity of product in each inventory?
++ What is the product category count and their product line percentage?
++ What is the overall quantity of products shipped from each warehouse?
++ What’s the total sales amount and average sales amount of each warehouse?
++ Are warehouses making enough profit through sales?
++ Are the products effectively shipped from the warehouse?
++ Was there any drastic change in product demand across the years?
++ Are there any product lines showing exceptional performance or underperforming?
++ What product line yields the highest profit for the company?
++ Was there any product that was in demand but was out of stock?
++ Are there products with high inventory but low sales?
++ Who are the customers making the most significant contributions to sales?
++ What is the purchasing trend among customers? Are there customers who did not place any orders within the specified timeframe?
++ Do customers have outstanding balances?
++ Are there customers with credit issues that need to be addressed?
++ How are employees performing based on their overall sales?
++ Are employees effectively able to secure deals with clients?
 
 ## Should Mint Classics consider the closure of one of their storage facilities?
 
