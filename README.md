@@ -21,81 +21,22 @@ Initiated the analysis by examining fundamental metrics related to the warehouse
 **The following will be analyzed in this project: -**
 
 1. What is the total quantity of product in each inventory?
-   ``` SQL
-   SELECT w.warehouseCode, w.warehouseName, SUM(p.quantityInStock) as Total_Inventory
-   from warehouses w
-   join products p on w.warehouseCode = p.warehouseCode
-   group by w.warehouseCode, w.warehouseName
-   order by Total_Inventory desc;
-   ```
 2. What is the product category count and their product line percentage?
-   ``` SQL
-   select productLine, warehouseCode, count(productLine) as ProductCatCount, 
-   cast(count(productLine)*100/ (select count(productLine) from products)as decimal(10,2)) as CategoryPercentage
-   from products
-   group by productLine, warehouseCode
-   order by CategoryPercentage desc;
-   ```
 3. What is the overall quantity of products shipped from each warehouse?
-   ``` SQL
-
-   ```
 4. What’s the total sales amount and average sales amount of each warehouse?
-   ``` SQL
-
-   ```
 5. Are warehouses making enough profit through sales?
-   ``` SQL
-
-   ```
 6. Are the products effectively shipped from the warehouse?
-   ``` SQL
-
-   ```
 7. Was there any drastic change in product demand across the years?
-   ``` SQL
-
-   ```
 8. Are there any product lines showing exceptional performance or underperforming?
-   ``` SQL
-
-   ```
 9. What product line yields the highest profit for the company?
-    ``` SQL
-
-    ```
 10. Was there any product that was in demand but was out of stock?
-    ``` SQL
-
-    ```
 11. Are there products with high inventory but low sales?
-    ``` SQL
-
-    ```
 12. Who are the customers making the most significant contributions to sales?
-    ``` SQL
-
-    ```
 13. What is the purchasing trend among customers? Are there customers who did not place any orders within the specified timeframe?
-    ``` SQL
-
-    ```
 14. Do customers have outstanding balances?
-    ``` SQL
-
-    ```
 15. Are there customers with credit issues that need to be addressed?
-    ``` SQL
-
-    ```
 16. How are employees performing based on their overall sales?
-    ``` SQL
-
-    ```
 17. Are employees effectively able to secure deals with clients?
-    ``` SQL
-
-    ```
 
 ## Should Mint Classics consider the closure of one of their storage facilities?
 
